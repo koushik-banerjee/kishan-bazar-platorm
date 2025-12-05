@@ -36,7 +36,7 @@ Assured Farming is a web-based platform designed to bridge the gap between certi
    Navigate to the project directory and install the required dependencies:
 
    ```bash
-   cd Assured_Farming
+   cd kishan-bazar-platorm
    npm install
    ```
 
