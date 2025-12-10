@@ -20,7 +20,6 @@ Assured Farming is a web-based platform designed to bridge the gap between certi
 - **Frontend:** React (with Vite and Tailwind CSS for styling) ⚛️
 - **Backend:** Node.js, Express.js 🌐
 - **Database:** MongoDB (with Mongoose for schema management) 🗄️
-- **Smart Contracts:** Blockchain integration for contract automation ⛓️
 - **Additional Tools:** Git, GitHub for version control 🛠️
 
 ## How to Run the Project
